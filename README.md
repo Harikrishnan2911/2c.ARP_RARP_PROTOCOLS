@@ -51,7 +51,8 @@ while True:
     c.send(mac.encode())
 ~~~
 ## OUPUT - ARP
-<img width="935" height="620" alt="image" src="https://github.com/user-attachments/assets/009f6918-d3c5-4440-a10c-983185a9e83b" />
+<img width="935" height="620" alt="ar" src="https://github.com/user-attachments/assets/b15fc253-1e5b-4d86-a93a-01a1dbe39218" />
+
 ## PROGRAM - RARP
 client_rarp.py
 ~~~
@@ -89,7 +90,8 @@ while True:
     c.send(ip.encode())
 ~~~
 ## OUPUT -RARP
-<img width="928" height="434" alt="image" src="https://github.com/user-attachments/assets/bd824bfe-d6bc-4494-8f59-b3bd7686bbff" />
+<img width="928" height="434" alt="rar" src="https://github.com/user-attachments/assets/e2a4d234-159e-4f68-a240-5dad4b96f1af" />
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
